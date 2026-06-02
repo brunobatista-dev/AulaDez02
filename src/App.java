@@ -1,3 +1,6 @@
+// Bruno Batista de Souza
+// RA: 1261948820
+
 public class App {
     public static void main(String[] args) {
         Aluno aluno = new Aluno();
